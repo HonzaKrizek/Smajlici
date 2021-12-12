@@ -1,0 +1,8 @@
+C:\Users\JAN\Documents\C_Sharp\Smajlici_2\Smajlici_2\bin\Debug\Smajlici_2.exe.config
+C:\Users\JAN\Documents\C_Sharp\Smajlici_2\Smajlici_2\bin\Debug\Smajlici_2.exe
+C:\Users\JAN\Documents\C_Sharp\Smajlici_2\Smajlici_2\bin\Debug\Smajlici_2.pdb
+C:\Users\JAN\Documents\C_Sharp\Smajlici_2\Smajlici_2\obj\Debug\Smajlici_2.csproj.AssemblyReference.cache
+C:\Users\JAN\Documents\C_Sharp\Smajlici_2\Smajlici_2\obj\Debug\Smajlici_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\JAN\Documents\C_Sharp\Smajlici_2\Smajlici_2\obj\Debug\Smajlici_2.csproj.CoreCompileInputs.cache
+C:\Users\JAN\Documents\C_Sharp\Smajlici_2\Smajlici_2\obj\Debug\Smajlici_2.exe
+C:\Users\JAN\Documents\C_Sharp\Smajlici_2\Smajlici_2\obj\Debug\Smajlici_2.pdb
